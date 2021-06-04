@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/zbase32",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ZBase32",
   "type": "module",
   "main": "./lib/index.cjs",
